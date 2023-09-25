@@ -1,7 +1,7 @@
 [gd_scene load_steps=8 format=3 uid="uid://ge24hepoml1u"]
 
-[ext_resource type="Script" path="res://scene/shihona's resource/HorizontalComputeResource.gd" id="1_jhgih"]
-[ext_resource type="Script" path="res://scene/shihona's resource/VerticalComputeResource.gd" id="2_8t763"]
+[ext_resource type="Script" path="res://addons/2D_action_compute_resource/resource/HorizontalComputeResource.gd" id="1_jhgih"]
+[ext_resource type="Script" path="res://addons/2D_action_compute_resource/resource/VerticalComputeResource.gd" id="2_8t763"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_ixqk4"]
 size = Vector2(16, 16)
